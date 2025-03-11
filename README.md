@@ -1,5 +1,5 @@
 # Web_Path_Finder
-# Path Finder GUI
+
 
 ## Description
 Path Finder GUI is a simple tool that scans URLs from a wordlist and checks their HTTP response status. It provides a graphical interface using Tkinter and color-coded results based on status codes.
@@ -15,6 +15,10 @@ Path Finder GUI is a simple tool that scans URLs from a wordlist and checks thei
 
 ### Prerequisites
 Ensure you have Python installed. This script requires Python 3.
+install tkinter module 
+```sh
+apt install python3-tk
+```
 
 #### Check Python Version:
 ```sh
@@ -45,7 +49,7 @@ pip install requests colorama
    ```
 3. Run the script:
    ```sh
-   python path_finder.py
+   python3 path_finder.py
    ```
 
 ### Installation on Windows
@@ -60,7 +64,7 @@ pip install requests colorama
    ```
 3. Run the script:
    ```sh
-   python path_finder.py
+   python3 path_finder.py
    ```
 
 ## Usage Guide
