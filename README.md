@@ -40,8 +40,8 @@ pip install requests colorama
 ### Installation on Linux
 1. Clone the repository (or download the script):
    ```sh
-   git clone https://github.com/yourusername/path-finder-gui.git
-   cd path-finder-gui
+   git clone https://github.com/ayush462/Web_Path_Finder.git
+   cd Web_Path_Finder
    ```
 2. Install dependencies:
    ```sh
@@ -49,14 +49,14 @@ pip install requests colorama
    ```
 3. Run the script:
    ```sh
-   python3 path_finder.py
+   python3 Web_Parh_Finder.py
    ```
 
 ### Installation on Windows
 1. Download the script or clone the repository:
    ```sh
-   git clone https://github.com/yourusername/path-finder-gui.git
-   cd path-finder-gui
+   git clone https://github.com/ayush462/Web_Path_Finder.git
+   cd Web_Path_Ffinder
    ```
 2. Open a command prompt in the project folder and install dependencies:
    ```sh
@@ -64,7 +64,7 @@ pip install requests colorama
    ```
 3. Run the script:
    ```sh
-   python3 path_finder.py
+   python3 Web_Path_Finder.py
    ```
 
 ## Usage Guide
